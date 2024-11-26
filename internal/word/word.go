@@ -46,5 +46,3 @@ func CamelCaseToUnderscore(s string) string {
 	}
 	return string(r)
 }
-
-// ji
